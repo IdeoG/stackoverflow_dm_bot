@@ -1,4 +1,4 @@
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.13.3
 chatterbot-corpus==1.0.1
 chatterbot==0.7.6
