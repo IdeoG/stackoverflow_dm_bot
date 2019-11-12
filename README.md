@@ -6,5 +6,5 @@ Final assignment of Advanced Machine Learning NLP HSE Course
 
 ```bash
 docker build -t stackoverflow_bot .
-docker run --rm -d stackoverflow_bot python3 main_bot.py --token <your_bot_token>
+docker run -e TOKEN=<YOUR_TOKEN> --rm -it stackoverflow_bot
 ```
