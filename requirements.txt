@@ -1,5 +1,5 @@
 nltk==3.4.5
-numpy==1.13.3
+numpy==1.22.0
 chatterbot-corpus==1.0.1
 chatterbot==0.7.6
 scikit-learn==0.19.1
