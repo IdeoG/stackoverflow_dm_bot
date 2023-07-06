@@ -3,4 +3,4 @@ numpy==1.13.3
 chatterbot-corpus==1.0.1
 chatterbot==0.7.6
 scikit-learn==0.19.1
-scipy==1.0.0
+scipy==1.10.0
